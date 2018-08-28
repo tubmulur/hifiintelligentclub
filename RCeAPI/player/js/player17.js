@@ -1,5 +1,8 @@
 /*
 Copyright notice starts here
+UNDER LICENSE: https://github.com/tubmulur/hifiintelligentclub/blob/master/LICENSE
+Newest source https://github.com/tubmulur/hifiintelligentclub/blob/master/RCeAPI/player/js/player17.js
+
 Copyright (c) 2017 lubimki.ru HQ audio software, RCeFramework
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
