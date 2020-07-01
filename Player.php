@@ -464,8 +464,10 @@ class Player
 				this.objAudio.onwaiting=function()
 					{
 					console.log('EDRO: Get PLayer.onWaiting().');
-					console.log('EDRO: Finish get PLayer.onWaiting().');
+					console.log('EDRO: Trying to load().');
+					objPlayer.objAudio.load();
 					objPlayer.bIzWhileHumanEvent=false;
+					console.log('EDRO: Finish get PLayer.onWaiting().');
 					}
 				this.objAudio.oncanplay=function()
 					{
