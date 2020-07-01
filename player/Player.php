@@ -371,9 +371,8 @@ class Player
 					text-align	:center;
 					background-color:#6fb6ff;
 					"
-				>'.
-				PlayerEventIndicator::strHTML().
-				'<ifRU>
+				>
+				<ifRU>
 					Остановлено
 				</ifRU>
 				<ifEN>
